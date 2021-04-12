@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anvarxon
-- 👀 I’m interested in Artificial Intelligence
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning NODE.JS
 - 📫 You can reach me through Telegram username: @Anvarkhon
 
